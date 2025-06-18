@@ -4,9 +4,7 @@ This project involves the development of a machine learning-based obstacle detec
 
 ⸻
 
-🧠 Project Summary
-
-Sonar (Sound Navigation and Ranging) is widely used in underwater navigation due to the inability of radio waves to penetrate water. This project leverages machine learning algorithm(Logistic Regression) to analyze sonar signal data and detect the presence of obstacles such as rocks, shipwrecks, or sea floor features. The model is trained on sonar signal characteristics and predicts the likelihood of an obstacle in the submarine’s path.
+Sonar (Sound Navigation and Ranging) is widely used in underwater navigation due to the inability of radio waves to penetrate water. This project leverages machine learning algorithm(Logistic Regression) to analyze sonar signal data and detect the presence of rocks and mines. The model is trained on sonar signal characteristics and predicts the likelihood of an obstacle in the submarine’s path.
 
 ⸻
 
