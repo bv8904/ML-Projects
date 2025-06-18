@@ -1,7 +1,5 @@
 # Submarine-Obstacle-Detection
 
-🔊 Submarine Obstacle Detection using Sonar & Machine Learning
-
 This project involves the development of a machine learning-based obstacle detection system for submarines using sonar data. The aim is to classify or detect obstacles underwater by analyzing the reflected sonar signals. This can enhance submarine navigation safety and assist in autonomous underwater vehicle (AUV) operations.
 
 ⸻
