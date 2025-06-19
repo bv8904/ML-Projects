@@ -14,7 +14,7 @@ This project uses a Supervised Machine Learning approach to classify email messa
 
 🧠 Machine Learning Pipeline
 	1.	Data Loading:
-	•	Dataset includes messages and their labels (0 for ham, 1 for spam).
+	•	Dataset includes messages and their labels.
 	2.	Preprocessing:
 	•	Optional steps like removing punctuation, converting to lowercase, and removing stop words.
 	3.	Feature Extraction:
