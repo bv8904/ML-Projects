@@ -48,8 +48,8 @@ Goal: Predict whether an email message is spam or ham.
   3.Scikit-learn
   
   4.TfidfVectorizer
-  
-  5.Jupyter Notebook / Google Colab
+
+  5.Google Collab  
 
 # 📚 Future Enhancements
   1.Experiment with other models: Naive Bayes, SVM, Random Forest
