@@ -4,10 +4,6 @@
 
 <p align="center"><em>Live visualization: Submarine scanning with sonar for underwater mines</em></p>
 
-# Submarine-Obstacle-Detection
-
-This project involves the development of a machine learning-based obstacle detection system for submarines using sonar data...
-
 
 # Submarine-Obstacle-Detection
 
