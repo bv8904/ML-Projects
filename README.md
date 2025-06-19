@@ -1,4 +1,4 @@
-📧 Spam Mail Detection using Logistic Regression
+# 📧 Spam Mail Detection using Logistic Regression
 
 This project uses a Supervised Machine Learning approach to classify email messages as Spam or Ham (Not Spam). Text data is transformed into numerical features using TF-IDF Vectorizer, and a Logistic Regression model is trained for binary classification.
 
@@ -6,7 +6,7 @@ This project uses a Supervised Machine Learning approach to classify email messa
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsaWdwanIxbmN4enhiNHdxNjV1NGlkN3V5ajRhams5NHZibndzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRPYrblGdODA5MF7eg/giphy.gif" alt="Spam Mail Detection Animation" width="600"/>
 </p>
 
-🚀 Project Overview
+# 🚀 Project Overview
 Goal: Predict whether an email message is spam or ham.
   
  1. Model Used: Logistic Regression
@@ -15,11 +15,11 @@ Goal: Predict whether an email message is spam or ham.
   
  3. Accuracy:
   
-  Training Accuracy: 96%
+⭐Training Accuracy: 96%
   
-  Testing Accuracy: 95%
+⭐Testing Accuracy: 95%
 
-🧠 Machine Learning Pipeline
+# 🧠 Machine Learning Pipeline
   Data Loading
   
  1. Dataset includes messages and their labels.
@@ -40,23 +40,23 @@ Goal: Predict whether an email message is spam or ham.
   
   Accuracy is measured on both training and testing datasets.
 
-🛠 Technologies Used
-  Python
+# 🛠 Technologies Used
+  1.Python
   
-  Pandas
+  2.Pandas
   
-  Scikit-learn
+  3.Scikit-learn
   
-  TfidfVectorizer
+  4.TfidfVectorizer
   
-  Jupyter Notebook / Google Colab
+  5.Jupyter Notebook / Google Colab
 
-📚 Future Enhancements
-  Experiment with other models: Naive Bayes, SVM, Random Forest
+# 📚 Future Enhancements
+  1.Experiment with other models: Naive Bayes, SVM, Random Forest
   
-  Integrate additional NLP steps (stemming, lemmatization)
+  2.Integrate additional NLP steps (stemming, lemmatization)
   
-  Build a web-based input form for live prediction
+  3.Build a web-based input form for live prediction
   
   Extend to real-time email inbox scanning
 
