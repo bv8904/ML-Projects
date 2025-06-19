@@ -58,5 +58,5 @@ Goal: Predict whether an email message is spam or ham.
   
   3.Build a web-based input form for live prediction
   
-  Extend to real-time email inbox scanning
+  4.Extend to real-time email inbox scanning
 
