@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkzYTUwNnpmbHgwbmZmMDg5bGM0M3AzdzQ1OW1xbXBsMnFncHRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xGCaTMCO59le/giphy.gif" alt="Submarine Sonar Obstacle Detection" width="600"/>
+</p>
+
+<p align="center"><em>Live visualization: Submarine scanning with sonar for underwater mines</em></p>
+
+# Submarine-Obstacle-Detection
+
+This project involves the development of a machine learning-based obstacle detection system for submarines using sonar data...
+
+
 # Submarine-Obstacle-Detection
 
 This project involves the development of a machine learning-based obstacle detection system for submarines using sonar data. The aim is to classify or detect obstacles underwater by analyzing the reflected sonar signals. This can enhance submarine navigation safety and assist in autonomous underwater vehicle (AUV) operations.
