@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsaWdwanIxbmN4enhiNHdxNjV1NGlkN3V5ajRhams5NHZibndzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRPYrblGdODA5MF7eg/giphy.gif" alt="Spam Mail Detection Animation" width="600"/>
-</p>
-
-<p align="center"><em>Live visualization: Email spam detection in action</em></p>
-
 📧 Spam Mail Detection using Logistic Regression
 
 This project uses a Supervised Machine Learning approach to classify email messages as Spam or Ham (Not Spam). Text data is transformed into numerical features using TF-IDF Vectorizer, and a Logistic Regression model is trained for binary classification.
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsaWdwanIxbmN4enhiNHdxNjV1NGlkN3V5ajRhams5NHZibndzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRPYrblGdODA5MF7eg/giphy.gif" alt="Spam Mail Detection Animation" width="600"/>
+</p>
 
 🚀 Project Overview
 	•	Goal: Predict whether an email message is spam or ham.
