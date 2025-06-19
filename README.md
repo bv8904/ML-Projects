@@ -3,7 +3,7 @@
 This project uses a Supervised Machine Learning approach to classify email messages as Spam or Ham (Not Spam). Text data is transformed into numerical features using TF-IDF Vectorizer, and a Logistic Regression model is trained for binary classification.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsaWdwanIxbmN4enhiNHdxNjV1NGlkN3V5ajRhams5NHZibndzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRPYrblGdODA5MF7eg/giphy.gif" alt="Spam Mail Detection Animation" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsaWdwanIxbmN4enhiNHdxNjV1NGlkN3V5ajRhams5NHZibndzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRPYrblGdODA5MF7eg/giphy.gif" alt="Spam Mail Detection Animation" width="300"/>
 </p>
 
 # 🚀 Project Overview
