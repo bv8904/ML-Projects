@@ -15,9 +15,13 @@ Sonar (Sound Navigation and Ranging) is widely used in underwater navigation due
 
 # 🧰 Tech Stack
 1.Language: Python
+
 2.Libraries: NumPy, Pandas, Scikit-learn
+
 3.ML Models Used: Logistic Regression
+
 4.Dataset: Custom sonar dataset
+
 5.IDE: Google Collab
 
 📈 Future Work
