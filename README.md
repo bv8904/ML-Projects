@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkzYTUwNnpmbHgwbmZmMDg5bGM0M3AzdzQ1OW1xbXBsMnFncHRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xGCaTMCO59le/giphy.gif" alt="Submarine Sonar Obstacle Detection" width="600"/>
-</p>
-
-<p align="center"><em>Live visualization: Submarine scanning with sonar for underwater mines</em></p>
-
 
 # Submarine-Obstacle-Detection
 
@@ -28,3 +22,10 @@ Sonar (Sound Navigation and Ranging) is widely used in underwater navigation due
 	•	Experiment with deep learning (CNNs or LSTMs)
 	•	Build a real-time dashboard for obstacle alerts
 	•	Extend to 3D sonar mapping and tracking
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkzYTUwNnpmbHgwbmZmMDg5bGM0M3AzdzQ1OW1xbXBsMnFncHRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xGCaTMCO59le/giphy.gif" alt="Submarine Sonar Obstacle Detection" width="600"/>
+</p>
+
+<p align="center"><em>Live visualization: Submarine scanning with sonar for underwater mines</em></p>
