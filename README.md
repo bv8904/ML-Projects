@@ -9,11 +9,11 @@ This project uses a Supervised Machine Learning approach to classify email messa
 🚀 Project Overview
 Goal: Predict whether an email message is spam or ham.
   
-  Model Used: Logistic Regression
+ 1. Model Used: Logistic Regression
   
-  Vectorization: TF-IDF (Term Frequency-Inverse Document Frequency)
+ 2. Vectorization: TF-IDF (Term Frequency-Inverse Document Frequency)
   
-  Accuracy:
+ 3. Accuracy:
   
   Training Accuracy: 96%
   
@@ -22,21 +22,21 @@ Goal: Predict whether an email message is spam or ham.
 🧠 Machine Learning Pipeline
   Data Loading
   
-  Dataset includes messages and their labels.
+ 1. Dataset includes messages and their labels.
   
-  Preprocessing
+ 2. Preprocessing
   
   Optional steps like removing punctuation, converting to lowercase, and removing stop words.
   
-  Feature Extraction
+ 3. Feature Extraction
   
   TfidfVectorizer is used to convert text messages into numerical feature vectors.
   
-  Model Training
+ 4. Model Training
   
   A Logistic Regression classifier is trained on the vectorized data.
   
-  Evaluation
+ 5. Evaluation
   
   Accuracy is measured on both training and testing datasets.
 
