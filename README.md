@@ -1,4 +1,4 @@
-<p align="center"><strong>㊙ BV™</strong></p>
+<h1 align="center"><strong>㊙BV</strong></h1>
 
 # 🧠 Machine Learning Projects Repository
 
