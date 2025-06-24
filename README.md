@@ -2,7 +2,7 @@
 
 # 🧠 Machine Learning Projects Repository
 
-Welcome to **ML-Projects** — a centralized repository that houses multiple machine learning projects built using Python, Jupyter Notebooks, and popular ML libraries. Each project is self-contained, well-documented, and showcases practical implementation of data science workflows from preprocessing to model evaluation.
+Welcome to **ML-Projects** — a centralized repository that houses multiple machine learning projects built using Python, Google Collab, and popular ML libraries. Each project is self-contained, well-documented, and showcases practical implementation of data science workflows from preprocessing to model evaluation.
 
 > 📌 Maintained by: **B Vasundara**  
 > 📬 Contact: [bvas8904@gmail.com](mailto:bvas8904@gmail.com)  
@@ -23,7 +23,7 @@ Welcome to **ML-Projects** — a centralized repository that houses multiple mac
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: Python 3.x
-- **IDE**: Jupyter Notebooks
+- **IDE**: Google Collab
 - **Libraries**:
   - `scikit-learn`, `NumPy`, `Pandas`
   - `Matplotlib`, `Seaborn`
