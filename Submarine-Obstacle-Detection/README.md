@@ -22,7 +22,7 @@ Sonar (Sound Navigation and Ranging) is widely used in underwater navigation due
 
 5.IDE: Google Collab
 
-# 📈 Future Work
+# 📈 Future Ehancements
 1.Integrate with real-time sonar hardware
 
 2.Improve signal denoising techniques
