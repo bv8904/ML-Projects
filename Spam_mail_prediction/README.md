@@ -40,7 +40,7 @@ Goal: Predict whether an email message is spam or ham.
   
     Accuracy is measured on both training and testing datasets.
 
-# 🛠 Technologies Used
+# 🛠 Tech Stack
   1.Python
   
   2.Pandas
