@@ -1,7 +1,7 @@
 # 🧪 Diabetes Prediction using Machine Learning
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/6-19-2024/vOhDPv.gif" alt="Diabetes Prediction" width="600"/>
+  <img src="https://i.makeagif.com/media/9-03-2015/vOhDPv.gif" alt="Diabetes Prediction" width="600"/>
 </p>
 
 This project focuses on predicting whether a patient is likely to have diabetes based on various health-related metrics. It uses a supervised machine learning approach with classification algorithms.
