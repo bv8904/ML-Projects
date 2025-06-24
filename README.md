@@ -1,10 +1,9 @@
 <p align="center"><strong>㊙BV</strong></p>
 
-
 # 🧠 Machine Learning Projects
 
 Welcome to the **ML-Projects** repository!  
-This consolidated collection includes real-world machine learning projects built using Python, Google Collab, and powerful ML libraries.
+This consolidated collection includes real-world machine learning projects built using Python, Jupyter Notebooks, and powerful ML libraries.
 
 ---
 
@@ -14,6 +13,7 @@ This consolidated collection includes real-world machine learning projects built
 |-----------|----------------|-----------|
 | 🛳️ **Submarine Obstacle Detection** | Detect and avoid underwater obstacles using synthetic sonar data and logistic regression. | [Submarine-Obstacle-Detection](./Submarine-Obstacle-Detection) |
 | 📧 **Spam Mail Prediction** | Classify email messages as spam or ham using TF-IDF and Logistic Regression. | [Spam_mail_prediction](./Spam_mail_prediction) |
+| 🩺 **Diabetes Prediction** | Predict likelihood of diabetes using patient health metrics and ML classifiers. | [Diabetes-Prediction-](./Diabetes-Prediction-) |
 
 ---
 
