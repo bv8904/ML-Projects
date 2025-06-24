@@ -4,7 +4,7 @@
 # 🧠 Machine Learning Projects
 
 Welcome to the **ML-Projects** repository!  
-This consolidated collection includes real-world machine learning projects built using Python, Jupyter Notebooks, and powerful ML libraries.
+This consolidated collection includes real-world machine learning projects built using Python, Google Collab, and powerful ML libraries.
 
 ---
 
