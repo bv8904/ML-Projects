@@ -60,7 +60,7 @@ This project focuses on predicting whether a patient is likely to have diabetes 
 
 ---
 
-### 🛠 Technologies Used
+### 🛠 Tech Stack
 
 - Python  
 - Pandas  
