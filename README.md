@@ -60,6 +60,23 @@ This project focuses on predicting whether a patient is likely to have diabetes 
 
 ---
 
+### 🛠 Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Jupyter Notebook / Google Colab  
+
+---
+
+### 📚 Future Enhancements
+
+- Try advanced models like Random Forest, SVM, XGBoost  
+- Perform hyperparameter tuning with GridSearchCV  
+- Deploy as a web app using Flask or Streamlit  
+- Visualize insights and trends with dashboards  
+
 ## 🧪 How to Run
 
 1. Clone the repository:
